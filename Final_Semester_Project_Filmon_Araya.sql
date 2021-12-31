@@ -180,10 +180,6 @@ EXEC SelectAnyEmployee @last_name = 'Simmel'
 --or
 EXEC SelectAnyEmployee @last_name = 'Koblick'
 
-
-
-
-
 --working with XML
 
 SELECT e.emp_no,e.first_name,e.last_name,d.dept_name,de.dept_no
@@ -194,21 +190,11 @@ FROM employees e INNER JOIN	dept_emp de
 ORDER BY emp_no
 FOR XML AUTO;
 
-
-
-
-
 SELECT e.emp_no AS EmployeeID,e.first_name AS First_Name,e.last_name AS Last_Name,t.title AS Title
 FROM employees e INNER JOIN titles t
 	ON e.emp_no=t.emp_no
 ORDER BY first_name
 FOR XML RAW ('Employee'), ROOT ('Title'), ELEMENTS
-
-
-
-
-
-
 
 --working with JSON FUNCTION
 SELECT emp_no,
@@ -218,14 +204,6 @@ SELECT emp_no,
 FROM employees
 FOR JSON PATH
 
-
-
-
-
-
-
-
-
 --To add memebers to update and to insert into employees table
 USE master
 USE MyProjectHR;
@@ -233,15 +211,6 @@ CREATE ROLE EmployeeEntry;
 GRANT UPDATE, INSERT  ON employees   TO EmployeeEntry;
 ALTER ROLE db_datareader   ADD MEMBER EmployeeEntry;
 
-
-
 DROP ROLE EmployeeEntry;
-
-
-
-
-
-
-
 
 
