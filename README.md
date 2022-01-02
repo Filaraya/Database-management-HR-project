@@ -1,6 +1,6 @@
 
 # Database-management-Human-Resource-HR
-! [Demo HR_Database](https://github.com/Filaraya/Database-management-HR-project/blob/main/Demo%20HR_Database.png)
+![Demo HR_Database](https://github.com/Filaraya/Database-management-HR-project/blob/main/Demo%20HR_Database.png)
 
 This project is a database management design for Human Resource for a sample company
 ## Project Intro/Objective
