@@ -22,7 +22,7 @@ The purpose of this project is _. (Describe the main goals of the project and po
 
 1.
 
-**Team Leads (Contacts) : [Filmon Y. Araya](https://github.com/[filaraya)**
+**Team Leads (Contacts) : [Filmon Y. Araya](https://github.com/filaraya)**
 
 ## Contact
 * Feel free to contact team leads with any questions or if you are interested in contributing!
