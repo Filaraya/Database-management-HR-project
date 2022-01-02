@@ -1,14 +1,13 @@
 
 # Database-management-Human-Resource-HR
-![Demo HR_Database](Demo HR_Database.png)
+! [Demo HR_Database](Demo HR_Database.png)
 
 This project is a database management design for Human Resource for a sample company
 ## Project Intro/Objective
 The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
 
 ### Methods Used
-* 
-
+*
 ### Technologies
 * SQL- Server
 
