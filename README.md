@@ -7,7 +7,7 @@ This project is a database management design for Human Resource for a sample com
 The purpose of this project is _. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
 
 ### Methods Used
-*
+
 ### Technologies
 * SQL- Server
 
@@ -19,8 +19,7 @@ The purpose of this project is _. (Describe the main goals of the project and po
 - Microsoft Server
 
 ## Getting Started
-
-1.
+- -- -=
 
 **Team Leads (Contacts) : [Filmon Y. Araya](https://github.com/filaraya)**
 
