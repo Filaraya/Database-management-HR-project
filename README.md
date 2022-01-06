@@ -4,8 +4,7 @@
 
 This project is a database management design for Human Resource for a sample company
 ## Project Intro/Objective
-The purpose of this project is _. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
-
+The purpose of this project is to desgin a database management for HR.
 ### Methods Used
 
 ### Technologies
