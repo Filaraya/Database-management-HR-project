@@ -11,14 +11,12 @@ The purpose of this project is to desgin a database management for HR.
 * SQL- Server
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+This project has developed and designed for any sample company's of HR department using SQL Server.
 
 ## Needs of this project
 
-- Microsoft Server
+- Basically, the project designed using SQL Server and it can be downloaded the sql file for data manuplation.
 
-## Getting Started
-- -- -=
 
 **Team Leads (Contacts) : [Filmon Y. Araya](https://github.com/filaraya)**
 
