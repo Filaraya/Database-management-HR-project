@@ -5,9 +5,7 @@
 This project is a database management design for Human Resource for a sample company
 ## Project Intro/Objective
 The purpose of this project is to desgin a database management for HR.
-### Methods Used
-
-### Technologies
+### Methods Used or Technologies
 * SQL- Server
 
 ## Project Description
@@ -21,4 +19,4 @@ This project has developed and designed for any sample company's of HR departmen
 **Team Leads (Contacts) : [Filmon Y. Araya](https://github.com/filaraya)**
 
 ## Contact
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+* Feel free to contact me with any questions or if you are interested in contributing!
