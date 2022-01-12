@@ -16,7 +16,6 @@ This project has developed and designed for any sample company's of HR departmen
 
 - Basically, the project designed using SQL Server and it can be downloaded the sql file for data manuplation.
 
-
 **Team Leads (Contacts) : [Filmon Y. Araya](https://github.com/filaraya)**
 
 ## Contact
